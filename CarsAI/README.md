@@ -14,4 +14,4 @@ Dialogflow
 - Copy the HTTPS link to the Dialogflow agent that you imported just now (at Fulfillment), add "/carai" after the HTTPS link (Example: https://xxxxxxx.ngrok.io/carai)
 - pm2 start app.js
 - pm2 logs
-- Access "localhost:8080" to test the system
+- Access "localhost:8080/index" to test the system
