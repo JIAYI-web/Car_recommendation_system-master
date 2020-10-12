@@ -1,6 +1,8 @@
 # Car_recommendation_system-master
 Make sure you have MySQL, Python, XAMPP, npm and ngrok installed in your PC
+
 cmd pip install pandas sklearn
+
 open XAMPP, start "Apache" and "Mysql" services
 git clone https://github.com/se7ven012/Car_recommendation_system.git
 cd Car_recommendation_system
